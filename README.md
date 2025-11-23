@@ -1,5 +1,7 @@
 # Catalat · PHP online catalog system with admin panel
 
+![Preview of the Catalat public catalog and admin panel](https://cata.lat/catalat-preview.png)
+
 Self-hosted PHP catalog script with modern design, multi-language support and SEO in mind.
 Publish product, rental or service catalogs in minutes using a clean public site and a simple admin panel.
 
