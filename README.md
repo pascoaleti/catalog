@@ -8,6 +8,7 @@ Publish product, rental or service catalogs in minutes using a clean public site
 * Homepage: [https://cata.lat/](https://cata.lat/)
 * Live demo (public + admin): [https://cata.lat/demo/](https://cata.lat/demo/)
 * Developer: [https://pascoal.eti.br](https://pascoal.eti.br)
+* Codester: [https://www.codester.com/items/60123/catalat-online-catalog-and-rental-php-script](https://www.codester.com/items/60123/catalat-online-catalog-and-rental-php-script) 
 
 ---
 
